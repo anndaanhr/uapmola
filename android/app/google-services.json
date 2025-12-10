@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "364443859928",
+        "project_id": "uap-mola-8079a",
+        "storage_bucket": "uap-mola-8079a.firebasestorage.app"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:364443859928:android:9908b9212a6fc091d0d0ad",
+            "android_client_info": {
+                "package_name": "com.company.uap_mola"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "364443859928-mla2vjqa07jb1lsbl4cmrtcrivg38avp.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.company.uap_mola",
+                    "certificate_hash": "166d969ec3a1ae266f44b2c92bde5d954390bb54"
+                }
+            },
+            {
+                "client_id": "364443859928-tjjrqb7c07jad4i31vbn784guhf08u5v.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyAWAJZ7YeBCz76XQk3tQAe0GkrtqbRhSy0"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "364443859928-tjjrqb7c07jad4i31vbn784guhf08u5v.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
